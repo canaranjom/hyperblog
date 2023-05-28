@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y GitHub de platzi
 * El flujo de trabajo de GitHub
 * Las buenas practicas
 *Creado por el increíble Platzi Team
+*Incluye ejemplos en windoow, linux y Mac
 
 Recuerda **Este Readme.md es un chiste**. Mira mis repositorios en Github [[Repo]](https://github.com/canaranjom "[Repo]")
