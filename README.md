@@ -8,6 +8,8 @@ Un blog increíble para el curso de Git y GitHub de platzi
 * Todos los commandos de GIT
 * El flujo de trabajo de GitHub
 * Las buenas practicas
-*Creado por el increíble Platzi Team
+* Creado por el increíble Platzi Team
+* Incluye ejemplos en windoow, linux y Mac
+* Disponible para todas las edades
 
 Recuerda **Este Readme.md es un chiste**. Mira mis repositorios en Github [[Repo]](https://github.com/canaranjom "[Repo]")
